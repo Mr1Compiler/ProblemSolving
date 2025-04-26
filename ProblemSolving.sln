@@ -7,6 +7,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EDEB204D-1A4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "src\LeetCode\LeetCode.csproj", "{8E88C20A-9029-49BD-B4FE-89ED1B9EC54A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomProblems", "src\RandomProblems\RandomProblems.csproj", "{A4A5C519-B3A2-4D29-9C0F-9604EF645797}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "playground", "playground", "{AD9FC896-001A-49E7-901E-23A596090D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "playground\Playground\Playground.csproj", "{11B5C92E-C5F2-462B-A9F7-2C033D5BE802}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +26,18 @@ Global
 		{8E88C20A-9029-49BD-B4FE-89ED1B9EC54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E88C20A-9029-49BD-B4FE-89ED1B9EC54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E88C20A-9029-49BD-B4FE-89ED1B9EC54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A5C519-B3A2-4D29-9C0F-9604EF645797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A5C519-B3A2-4D29-9C0F-9604EF645797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A5C519-B3A2-4D29-9C0F-9604EF645797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A5C519-B3A2-4D29-9C0F-9604EF645797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B5C92E-C5F2-462B-A9F7-2C033D5BE802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B5C92E-C5F2-462B-A9F7-2C033D5BE802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B5C92E-C5F2-462B-A9F7-2C033D5BE802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B5C92E-C5F2-462B-A9F7-2C033D5BE802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8E88C20A-9029-49BD-B4FE-89ED1B9EC54A} = {EDEB204D-1A40-4FE2-BAEB-A144EB8A0826}
+		{A4A5C519-B3A2-4D29-9C0F-9604EF645797} = {EDEB204D-1A40-4FE2-BAEB-A144EB8A0826}
+		{11B5C92E-C5F2-462B-A9F7-2C033D5BE802} = {AD9FC896-001A-49E7-901E-23A596090D5B}
 	EndGlobalSection
 EndGlobal

@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace playground;
+
+public class Program
+{
+	public static void Main()
+	{
+		// Write and test code here -_-
+	}
+}
