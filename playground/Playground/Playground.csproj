@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\LeetCode\LeetCode.csproj" />
     <ProjectReference Include="..\..\src\RandomProblems\RandomProblems.csproj" />
+    <ProjectReference Include="..\..\src\FromScratch\FromScratch.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
