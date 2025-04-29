@@ -1,4 +1,5 @@
-﻿using ProblemSolving.src.LeetCode.Problems.Array;
+﻿using LeetCode.Problems;
+using ProblemSolving.src.LeetCode.Problems.Array;
 using System.Collections;
 
 namespace playground;
@@ -9,14 +10,12 @@ public class Program
 	{
 		// Write and test code here -_-
 
-		int[] nums = [3, 3];
-		int target = 6;
+		int[] nums = [0, 1, 2, 2, 3, 0, 4, 2];
+		int val = 2;
 
-		TwoSum sl = new TwoSum();
+		RemoveElement sl = new RemoveElement();
 
-		foreach (int n in sl.Solve2(nums, target))
-		{
-			Console.WriteLine(n);
-		}
+		//Console.WriteLine(sl.Solve2(nums, val));
+		Console.WriteLine(sl.Solve2(nums, val));
 	}
 }
