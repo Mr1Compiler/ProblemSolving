@@ -10,12 +10,11 @@ public class Program
 	{
 		// Write and test code here -_-
 
-		int[] nums = [0, 1, 2, 2, 3, 0, 4, 2];
-		int val = 2;
+		int[] nums = [1, 3, 5, 6];
+		int target = 0;
 
-		RemoveElement sl = new RemoveElement();
+		SearchInsert sl = new();
 
-		//Console.WriteLine(sl.Solve2(nums, val));
-		Console.WriteLine(sl.Solve2(nums, val));
+		Console.WriteLine(sl.Solve(nums, target));
 	}
 }

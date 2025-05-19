@@ -59,45 +59,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Windows\\.nuget\\packages\\": {},
-    "D:\\Visual Studio\\Shared components, tools and SDKs\\NuGetPackages": {}
+    "/home/mr1compiler/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Problem Solving\\playground\\Playground\\Playground.csproj",
+      "projectUniqueName": "/mnt/extraspace/Problem Solving/playground/Playground/Playground.csproj",
       "projectName": "Playground",
-      "projectPath": "E:\\Problem Solving\\playground\\Playground\\Playground.csproj",
-      "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-      "outputPath": "E:\\Problem Solving\\playground\\Playground\\obj\\",
+      "projectPath": "/mnt/extraspace/Problem Solving/playground/Playground/Playground.csproj",
+      "packagesPath": "/home/mr1compiler/.nuget/packages/",
+      "outputPath": "/mnt/extraspace/Problem Solving/playground/Playground/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Visual Studio\\Shared components, tools and SDKs\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/mr1compiler/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Problem Solving\\src\\FromScratch\\FromScratch.csproj": {
-              "projectPath": "E:\\Problem Solving\\src\\FromScratch\\FromScratch.csproj"
+            "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj": {
+              "projectPath": "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj"
             },
-            "E:\\Problem Solving\\src\\LeetCode\\LeetCode.csproj": {
-              "projectPath": "E:\\Problem Solving\\src\\LeetCode\\LeetCode.csproj"
+            "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj": {
+              "projectPath": "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj"
             },
-            "E:\\Problem Solving\\src\\RandomProblems\\RandomProblems.csproj": {
-              "projectPath": "E:\\Problem Solving\\src\\RandomProblems\\RandomProblems.csproj"
+            "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj": {
+              "projectPath": "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj"
             }
           }
         }
@@ -132,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
