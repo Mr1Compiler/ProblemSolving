@@ -64,11 +64,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/extraspace/Problem Solving/playground/Playground/Playground.csproj",
+      "projectUniqueName": "/mnt/hdd/Problem Solving/playground/Playground/Playground.csproj",
       "projectName": "Playground",
-      "projectPath": "/mnt/extraspace/Problem Solving/playground/Playground/Playground.csproj",
+      "projectPath": "/mnt/hdd/Problem Solving/playground/Playground/Playground.csproj",
       "packagesPath": "/home/mr1compiler/.nuget/packages/",
-      "outputPath": "/mnt/extraspace/Problem Solving/playground/Playground/obj/",
+      "outputPath": "/mnt/hdd/Problem Solving/playground/Playground/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mr1compiler/.nuget/NuGet/NuGet.Config"
@@ -83,14 +83,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj": {
-              "projectPath": "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj"
+            "/mnt/hdd/Problem Solving/src/FromScratch/FromScratch.csproj": {
+              "projectPath": "/mnt/hdd/Problem Solving/src/FromScratch/FromScratch.csproj"
             },
-            "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj": {
-              "projectPath": "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj"
+            "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj": {
+              "projectPath": "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj"
             },
-            "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj": {
-              "projectPath": "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj"
+            "/mnt/hdd/Problem Solving/src/RandomProblems/RandomProblems.csproj": {
+              "projectPath": "/mnt/hdd/Problem Solving/src/RandomProblems/RandomProblems.csproj"
             }
           }
         }
@@ -125,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

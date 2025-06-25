@@ -4,6 +4,7 @@ obj/
 
 # Ignore Visual Studio folder
 .vs/
+.idea/
 
 # Ignore user-specific files
 *.user

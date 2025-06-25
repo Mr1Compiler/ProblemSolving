@@ -1,6 +1,8 @@
 ﻿using LeetCode.Problems;
 using ProblemSolving.src.LeetCode.Problems.Array;
 using System.Collections;
+using RandomProblems.Problems;
+
 
 namespace playground;
 
@@ -10,11 +12,10 @@ public class Program
 	{
 		// Write and test code here -_-
 
-		int[] nums = [1, 3, 5, 6];
-		int target = 0;
+		FirstNonRepeating firstNonRepeating = new FirstNonRepeating();
 
-		SearchInsert sl = new();
+		int num = firstNonRepeating.Solve(new int[] { 4, 5, 1, 2, 0, 4 });
 
-		Console.WriteLine(sl.Solve(nums, target));
+    	Console.WriteLine(num);
 	}
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/extraspace/Problem Solving/playground/Playground/Playground.csproj": {}
+    "/mnt/hdd/Problem Solving/playground/Playground/Playground.csproj": {}
   },
   "projects": {
-    "/mnt/extraspace/Problem Solving/playground/Playground/Playground.csproj": {
+    "/mnt/hdd/Problem Solving/playground/Playground/Playground.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/extraspace/Problem Solving/playground/Playground/Playground.csproj",
+        "projectUniqueName": "/mnt/hdd/Problem Solving/playground/Playground/Playground.csproj",
         "projectName": "Playground",
-        "projectPath": "/mnt/extraspace/Problem Solving/playground/Playground/Playground.csproj",
+        "projectPath": "/mnt/hdd/Problem Solving/playground/Playground/Playground.csproj",
         "packagesPath": "/home/mr1compiler/.nuget/packages/",
-        "outputPath": "/mnt/extraspace/Problem Solving/playground/Playground/obj/",
+        "outputPath": "/mnt/hdd/Problem Solving/playground/Playground/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mr1compiler/.nuget/NuGet/NuGet.Config"
@@ -26,14 +26,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj": {
-                "projectPath": "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj"
+              "/mnt/hdd/Problem Solving/src/FromScratch/FromScratch.csproj": {
+                "projectPath": "/mnt/hdd/Problem Solving/src/FromScratch/FromScratch.csproj"
               },
-              "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj": {
-                "projectPath": "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj"
+              "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj": {
+                "projectPath": "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj"
               },
-              "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj": {
-                "projectPath": "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj"
+              "/mnt/hdd/Problem Solving/src/RandomProblems/RandomProblems.csproj": {
+                "projectPath": "/mnt/hdd/Problem Solving/src/RandomProblems/RandomProblems.csproj"
               }
             }
           }
@@ -68,18 +68,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj": {
+    "/mnt/hdd/Problem Solving/src/FromScratch/FromScratch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj",
+        "projectUniqueName": "/mnt/hdd/Problem Solving/src/FromScratch/FromScratch.csproj",
         "projectName": "FromScratch",
-        "projectPath": "/mnt/extraspace/Problem Solving/src/FromScratch/FromScratch.csproj",
+        "projectPath": "/mnt/hdd/Problem Solving/src/FromScratch/FromScratch.csproj",
         "packagesPath": "/home/mr1compiler/.nuget/packages/",
-        "outputPath": "/mnt/extraspace/Problem Solving/src/FromScratch/obj/",
+        "outputPath": "/mnt/hdd/Problem Solving/src/FromScratch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mr1compiler/.nuget/NuGet/NuGet.Config"
@@ -126,18 +126,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj": {
+    "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj",
+        "projectUniqueName": "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj",
+        "projectPath": "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj",
         "packagesPath": "/home/mr1compiler/.nuget/packages/",
-        "outputPath": "/mnt/extraspace/Problem Solving/src/LeetCode/obj/",
+        "outputPath": "/mnt/hdd/Problem Solving/src/LeetCode/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mr1compiler/.nuget/NuGet/NuGet.Config"
@@ -184,18 +184,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj": {
+    "/mnt/hdd/Problem Solving/src/RandomProblems/RandomProblems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj",
+        "projectUniqueName": "/mnt/hdd/Problem Solving/src/RandomProblems/RandomProblems.csproj",
         "projectName": "RandomProblems",
-        "projectPath": "/mnt/extraspace/Problem Solving/src/RandomProblems/RandomProblems.csproj",
+        "projectPath": "/mnt/hdd/Problem Solving/src/RandomProblems/RandomProblems.csproj",
         "packagesPath": "/home/mr1compiler/.nuget/packages/",
-        "outputPath": "/mnt/extraspace/Problem Solving/src/RandomProblems/obj/",
+        "outputPath": "/mnt/hdd/Problem Solving/src/RandomProblems/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mr1compiler/.nuget/NuGet/NuGet.Config"
@@ -242,7 +242,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

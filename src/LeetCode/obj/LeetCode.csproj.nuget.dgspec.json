@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj": {}
+    "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj": {}
   },
   "projects": {
-    "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj": {
+    "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj",
+        "projectUniqueName": "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "/mnt/extraspace/Problem Solving/src/LeetCode/LeetCode.csproj",
+        "projectPath": "/mnt/hdd/Problem Solving/src/LeetCode/LeetCode.csproj",
         "packagesPath": "/home/mr1compiler/.nuget/packages/",
-        "outputPath": "/mnt/extraspace/Problem Solving/src/LeetCode/obj/",
+        "outputPath": "/mnt/hdd/Problem Solving/src/LeetCode/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mr1compiler/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
