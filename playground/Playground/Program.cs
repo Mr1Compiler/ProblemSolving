@@ -12,10 +12,18 @@ public class Program
 	{
 		// Write and test code here -_-
 
-		FirstNonRepeating firstNonRepeating = new FirstNonRepeating();
+		FindMissingNumber fmn = new FindMissingNumber();
 
-		int num = firstNonRepeating.Solve(new int[] { 4, 5, 1, 2, 0, 4 });
+		int num = fmn.Sovle(new int[] { 1 });
 
-    	Console.WriteLine(num);
+		Console.WriteLine(num);
 	}
 }
+
+
+/*
+      FindMissingNumber(new int[] { 3, 0, 1 }) → 2
+      FindMissingNumber(new int[] { 0, 1 }) → 2
+      FindMissingNumber(new int[] { 1 }) → 0
+      FindMissingNumber(new int[] { 0 }) → 1
+*/
